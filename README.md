@@ -1,4 +1,4 @@
-<img width=100% alt="blue_waves_head" src="https://capsule-render.vercel.app/api?type=waving&color=dc143c&height=285&section=header&text=Bootcamp%20Desenvolvimento%20de%20Jogos&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Disponibilizado%20pela%20DIO%20e%20Potência%20Tech&descAlignY=48&descAlign=70"/>
+<img width=100% alt="blue_waves_head" src="https://capsule-render.vercel.app/api?type=waving&color=dc143c&height=285&section=header&text=Bootcamp%20Desenvolvimento%20de%20Jogos&fontSize=40&animation=fadeIn&fontAlignY=35&desc=DIO%20e%20Potência%20Tech&descAlignY=48&descAlign=79"/>
 
 <div align="center">
   <img align="right" width="83" alt="javascript-badge" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" target="_blank">
