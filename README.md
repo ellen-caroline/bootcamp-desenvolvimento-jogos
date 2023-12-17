@@ -9,3 +9,5 @@
 ##
 <br>
 Repositório destinado para conteúdos, desafios e resumos, referentes ao Bootcamp "Desenvolvimento de Jogos" disponibilizado pela DIO em parceria com o Potência Tech do Ifood.
+
+<img width=100% alt="blue_waves_end" src="https://capsule-render.vercel.app/api?type=waving&color=dc143c&height=120&section=footer"/>
